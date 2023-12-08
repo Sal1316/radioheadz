@@ -1,4 +1,3 @@
-import Chat from './Chat';
 import Tuner from './Tuner';
 
 const Body = () => {
@@ -7,9 +6,6 @@ const Body = () => {
       BOdy
       <div>
         <Tuner />
-      </div>
-      <div>
-        <Chat />
       </div>
     </div>
   );
